@@ -19,7 +19,11 @@ Jira • Cypress • Postman • Swagger • GitHub • Chrome DevTools • Brow
 • CI/CD  
 
 ## Portfolio Projects
-- Manual Testing Portfolio
-- Demoblaze Cypress Automation
+
+:small_blue_diamond: Manual Testing Portfolio  
+https://github.com/sharjeelaftab/manual-testing-portfolio
+
+:small_blue_diamond: Demoblaze Selenium Automation with Python  
+https://github.com/sharjeelaftab/my-demoblaze.com-automation-code
 
 ## Open to Freelance QA Projects
