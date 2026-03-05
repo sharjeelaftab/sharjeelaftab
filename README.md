@@ -1,63 +1,25 @@
-# :wave: Hi, I'm Sharjeel Aftab
+# Hi :wave: I'm Sharjeel Aftab
 
-## :test_tube: Senior Software Quality Assurance Engineer
+Senior SQA Engineer with 4+ years of experience in Web and Mobile application testing.
 
-I am a detail-oriented QA Engineer with 3+ years of experience in manual and automation testing of web and mobile applications.
+## Specialized in
+• Manual Testing  
+• API Testing (Swagger / Postman)  
+• Regression Testing   
+• Test Documentation  
+• Agile QA  
 
----
+## Tools
+Jira • Cypress • Postman • Swagger • GitHub • Chrome DevTools • Browser Stack • Selenium • Trello • Notion • Click-Up
 
-## :briefcase: Core Expertise
+## Currently Learning
+• Python  
+• Selenium  
+• Cypress  
+• CI/CD  
 
-- Manual Testing (Web & Mobile)
-- API Testing (Postman / Swagger)
-- Regression Testing
-- Smoke Testing
-- End-to-End Testing
-- UAT Testing
-- Test Case Writing
-- Bug Reporting
-- Sanity Testing
-- Exploratory Testing
-
----
-
-## :rocket: Currently Learning
-
-- Python
-- Selenium
-- Cypress
-- CI/CD
-
----
-
-## :open_file_folder: Portfolio Repositories
-
+## Portfolio Projects
 - Manual Testing Portfolio
-- Demoblaze Automation Project
+- Demoblaze Cypress Automation
 
----
-
-## :mailbox: Let's Connect
-
-:round_pushpin: Pakistan  
-📧 maliksharjeel77@gmail.com
-:link: LinkedIn: https://www.linkedin.com/in/sharjeel-aftab-malik-364748202/  
-
----
-
-:star: Open to Freelance QA Projects
-
-<!--
-**sharjeelaftab/sharjeelaftab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open to Freelance QA Projects
